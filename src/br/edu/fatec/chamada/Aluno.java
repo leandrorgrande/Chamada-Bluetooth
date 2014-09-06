@@ -7,6 +7,7 @@ import android.bluetooth.BluetoothDevice;
 
 /****************************************************************************************************
  * @author todo TESTE conflito
+ * Alteração de Leandro Grande
  *
  ****************************************************************************************************/
 public class Aluno {
